@@ -1,0 +1,2 @@
+rootProject.name='Restoran'
+include ':app'
